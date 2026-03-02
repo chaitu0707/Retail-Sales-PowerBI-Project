@@ -1,0 +1,21 @@
+Region_ID,Region_Name,State,Country,Sales_Manager
+REG1,East,Gujarat,India,Manager 1
+REG2,West,Tamil Nadu,India,Manager 2
+REG3,West,Telangana,India,Manager 3
+REG4,North,Telangana,India,Manager 4
+REG5,West,Rajasthan,India,Manager 5
+REG6,South,Tamil Nadu,India,Manager 6
+REG7,South,Gujarat,India,Manager 7
+REG8,East,Tamil Nadu,India,Manager 8
+REG9,South,Maharashtra,India,Manager 9
+REG10,South,West Bengal,India,Manager 10
+REG11,North,Telangana,India,Manager 11
+REG12,South,Karnataka,India,Manager 12
+REG13,West,Gujarat,India,Manager 13
+REG14,West,Delhi,India,Manager 14
+REG15,South,Delhi,India,Manager 15
+REG16,East,Tamil Nadu,India,Manager 16
+REG17,East,West Bengal,India,Manager 17
+REG18,East,Gujarat,India,Manager 18
+REG19,South,Gujarat,India,Manager 19
+REG20,East,Karnataka,India,Manager 20
