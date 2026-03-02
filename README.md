@@ -1,8 +1,8 @@
 # 📊 Retail Sales & Customer Intelligence Dashboard (Power BI)
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
-![Data Model](https://img.shields.io/badge/Model-Star%20Schema-blue)
-![Records](https://img.shields.io/badge/Data-50K%2B%20Rows-green)
+![Model](https://img.shields.io/badge/Data%20Model-Star%20Schema-blue)
+![Data](https://img.shields.io/badge/Records-50K%2B-green)
 
 ---
 
@@ -10,13 +10,13 @@
 
 This project demonstrates an enterprise-level Power BI dashboard built using 50,000+ transactional records.
 
-The objective was to analyze:
+The objective of this project is to analyze:
 
 - Revenue & Profit performance
-- Discount impact on profitability
-- Product-level insights
+- Product-level profitability
+- Discount impact on revenue
 - Customer behavior using RFM segmentation
-- Revenue loss due to pricing strategy
+- Customer Lifetime Value (CLV)
 
 ---
 
@@ -30,7 +30,7 @@ The objective was to analyze:
   - Region
   - Calendar
 - Single-direction relationships
-- Time Intelligence enabled
+- Time intelligence enabled
 
 ---
 
@@ -40,35 +40,35 @@ The objective was to analyze:
 
 ## 🟢 Page 1 – Executive Overview
 
-![Executive Overview](Screenshots/Page 1.png)
+![Executive Overview](Screenshots/Page1.png)
 
 **Features:**
-- KPI Cards (Sales, Profit, Margin, Orders)
+- KPI Cards (Total Sales, Profit, Margin, Orders)
 - Monthly Sales Trend
 - Category Performance
-- Regional Analysis
-- Dynamic Filters
+- Regional Sales Analysis
+- Interactive Filters
 
 ---
 
 ## 🔵 Page 2 – Product & Profit Analysis
 
-![Product Analysis](Screenshots/Page 2.png)
+![Product Analysis](Screenshots/Page2.png)
 
 **Features:**
 - Top & Bottom 10 Products
-- Discount vs Profit Scatter Analysis
-- Waterfall Profit Breakdown
-- Margin Comparison by Category
+- Discount vs Profit Analysis
+- Waterfall Chart (Profit Breakdown)
+- Category Margin Comparison
 
 ---
 
 ## 🟣 Page 3 – Customer & RFM Analysis
 
-![Customer RFM](Screenshots/Page 3.png)
+![Customer RFM Analysis](Screenshots/Page3.png)
 
 **Features:**
-- RFM Segmentation
+- RFM Segmentation (Champions, Loyal, At Risk)
 - Customer Lifetime Value (CLV)
 - Repeat vs New Customers
 - Revenue Loss due to Discount
@@ -81,7 +81,7 @@ The objective was to analyze:
 ✔ Identified high-value customers using RFM scoring  
 ✔ Analyzed revenue leakage due to discount strategy  
 ✔ Detected loss-making products  
-✔ Built executive-level summary for decision-making  
+✔ Built executive-level summary for business decision-making  
 
 ---
 
@@ -91,7 +91,7 @@ The objective was to analyze:
 - DAX (Advanced Calculations)
 - Data Modeling (Star Schema)
 - Time Intelligence Functions
-- GitHub (Project Versioning)
+- GitHub (Version Control)
 
 ---
 
@@ -100,10 +100,32 @@ The objective was to analyze:
 - Data Modeling
 - KPI Development
 - Profitability Analysis
-- Customer Segmentation
-- Business Storytelling
+- Customer Segmentation (RFM)
+- Business Intelligence Reporting
 - Dashboard UI Design
 
 ---
 
 # 📂 Repository Structure
+
+Retail-Sales-PowerBI-Project/
+│
+├── Dataset/
+├── Dashboard/
+├── Screenshots/
+│   ├── Page1.png
+│   ├── Page2.png
+│   └── Page3.png
+└── README.md
+
+---
+
+# 👨‍💻 Author
+
+**Chaitanya Chavan**  
+Aspiring Data Analyst  
+India  
+
+---
+
+⭐ If you found this project useful, feel free to star the repository.
