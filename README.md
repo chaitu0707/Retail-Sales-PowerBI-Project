@@ -40,7 +40,7 @@ The objective of this project is to analyze:
 
 ## 🟢 Page 1 – Executive Overview
 
-![Executive Overview](Screenshots/Page1.png)
+![Executive Overview](Screenshots/Page 1.png)
 
 **Features:**
 - KPI Cards (Total Sales, Profit, Margin, Orders)
