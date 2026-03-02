@@ -40,7 +40,7 @@ The objective of this project is to analyze:
 
 ## 🟢 Page 1 – Executive Overview
 
-![Executive Overview](Screenshots/Page1.png)
+![Executive Overview](Screenshots/page1.png)
 
 **Features:**
 - KPI Cards (Total Sales, Profit, Margin, Orders)
@@ -53,7 +53,7 @@ The objective of this project is to analyze:
 
 ## 🔵 Page 2 – Product & Profit Analysis
 
-![Product Analysis](Screenshots/Page2.png)
+![Product Analysis](Screenshots/page2.png)
 
 **Features:**
 - Top & Bottom 10 Products
@@ -65,7 +65,7 @@ The objective of this project is to analyze:
 
 ## 🟣 Page 3 – Customer & RFM Analysis
 
-![Customer RFM Analysis](Screenshots/Page3.png)
+![Customer RFM Analysis](Screenshots/page3.png)
 
 **Features:**
 - RFM Segmentation (Champions, Loyal, At Risk)
